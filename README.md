@@ -1,1 +1,1 @@
-![Header](./gtihub-header.png)
+![Header](gtihub-header.png)
